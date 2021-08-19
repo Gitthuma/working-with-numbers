@@ -49,5 +49,9 @@ from math import *
 # print(round(7.6))
 
 # Use floor function on a number
-print(floor(7.3))
-print(floor(7.6))
+# print(floor(7.3))
+# print(floor(7.6))
+
+# Use ceil function on a number
+print(ceil(7.3))
+print(ceil(7.6))
