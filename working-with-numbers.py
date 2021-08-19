@@ -33,5 +33,10 @@
 # print(abs(my_num))
 
 # Use pow function on a number
+#my_num = 7
+#print(pow(my_num, 2))
+
+# Use max and min function on a number
 my_num = 7
-print(pow(my_num, 2))
+print(max(my_num, 2))
+print(min(my_num, 2))
