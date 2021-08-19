@@ -53,5 +53,9 @@ from math import *
 # print(floor(7.6))
 
 # Use ceil function on a number
-print(ceil(7.3))
-print(ceil(7.6))
+# print(ceil(7.3))
+# print(ceil(7.6))
+
+# Use sqrt function on a number
+print(sqrt(36))
+print(sqrt(25))
