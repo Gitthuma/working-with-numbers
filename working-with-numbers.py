@@ -21,5 +21,9 @@
 #print(10 % 3)
 
 # Store number in a variable
+#my_num = 7
+# print(my_num)
+
+# Convert number into string
 my_num = 7
-print(my_num)
+print(str(my_num) + " is my favourite number")
