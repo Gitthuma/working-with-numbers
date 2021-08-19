@@ -18,4 +18,8 @@
 #print(3 * (4 + 5))
 
 # modula operator
-print(10 % 3)
+#print(10 % 3)
+
+# Store number in a variable
+my_num = 7
+print(my_num)
