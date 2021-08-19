@@ -37,6 +37,10 @@
 #print(pow(my_num, 2))
 
 # Use max and min function on a number
-my_num = 7
-print(max(my_num, 2))
-print(min(my_num, 2))
+#my_num = 7
+#print(max(my_num, 2))
+#print(min(my_num, 2))
+
+# Use round function on a number
+print(round(7.3))
+print(round(7.6))
