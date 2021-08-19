@@ -1,3 +1,6 @@
+# import math function
+from math import *
+
 # print a number
 # print(7)
 
