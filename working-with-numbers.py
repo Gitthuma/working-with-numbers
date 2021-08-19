@@ -29,5 +29,9 @@
 #print(str(my_num) + " is my favourite number")
 
 # Use ABS function on a number
-my_num = -7
-print(abs(my_num))
+#my_num = -7
+# print(abs(my_num))
+
+# Use pow function on a number
+my_num = 7
+print(pow(my_num, 2))
