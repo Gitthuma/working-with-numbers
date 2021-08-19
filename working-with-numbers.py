@@ -45,5 +45,9 @@ from math import *
 #print(min(my_num, 2))
 
 # Use round function on a number
-print(round(7.3))
-print(round(7.6))
+# print(round(7.3))
+# print(round(7.6))
+
+# Use floor function on a number
+print(floor(7.3))
+print(floor(7.6))
