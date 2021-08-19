@@ -21,9 +21,13 @@
 #print(10 % 3)
 
 # Store number in a variable
-#my_num = 7
+# my_num = 7
 # print(my_num)
 
 # Convert number into string
-my_num = 7
-print(str(my_num) + " is my favourite number")
+#my_num = 7
+#print(str(my_num) + " is my favourite number")
+
+# Use ABS function on a number
+my_num = -7
+print(abs(my_num))
